@@ -5,7 +5,6 @@ I'm a **full stack developer** who enjoys turning ideas into practical products�
 - 🌐 I build for the web and across platforms
 - 🧰 I work with JavaScript, Python, C#, and .NET
 - 📱 I enjoy shipping complete, useful products
-- 📍 Based in Morocco
 
 ## Featured Projects
 
